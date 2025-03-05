@@ -36,7 +36,7 @@ Give credit here.
 - This project was inspired by...Upgrad
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @uditshinghal - feel free to contact me!
 
 
 <!-- Optional -->
